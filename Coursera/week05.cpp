@@ -2,8 +2,8 @@
 //  main.cpp
 //  test
 //
-//  Created by ´¿§»¶v on 2017/11/18.
-//  Copyright c 2017¦~ ´¿§»¶v. All rights reserved.
+//  Created by Â´Â¿Â§Â»Â¶v on 2017/11/18.
+//  Copyright c 2017Â¦~ Â´Â¿Â§Â»Â¶v. All rights reserved.
 //
 
 #include <stdio.h>
